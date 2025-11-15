@@ -1,0 +1,91 @@
+body {
+margin: 25px;
+background-image: url("SKY.jpg");
+text-align: center;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+cursor: url('hand.png'), auto;
+}
+
+.index-img1 {
+   height: 1px hover;
+   width: 250px;
+}
+.index-img2 {
+    height: 1px hover;
+    width: 125px;
+ }
+.index-img3 {
+   height: 1px hover;
+   width: 200px;
+}
+
+.p-2 {
+   margin: 30;
+   text-align: left;
+   max-width: 700px;
+   line-height: 1.4;
+}
+
+.p-1 {
+    margin: 30;
+   text-align: left;
+   max-width: 700px;
+   line-height: 1.4;
+}
+
+.my-link {
+   float: left;
+   color: darkred;
+
+}
+
+.another-link {
+   float: left;
+   color: darkred;
+
+}
+
+.my-last-day {
+   color: darkred;
+}
+
+.my-heading {
+   font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+   font-family:'Franklin Gothic Medium';
+}
+
+table {
+   width: 30%;
+   color: darkred;
+   background-color: whitesmoke;
+   box-shadow: 0 0 10px 10px whitesmoke;
+   font-family:'Franklin Gothic Medium';
+}
+
+.gif-three {
+   width: 700px;
+}
+
+.gif-one {
+   height: 300px;
+}
+
+.p-3 {
+   text-align: center;
+   padding-right: 200px;
+   padding-left: 200px;
+   line-height: 1.4;
+}
+
+.gif-two {
+   box-shadow: 0 0 5px 5px skyblue;
+   border: 1px solid rgb(0, 0, 0);
+}
+
+.p-4 {
+   line-height: 1.4;
+   text-align: center;
+}
