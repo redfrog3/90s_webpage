@@ -6,6 +6,11 @@ font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 cursor: url('hand.png'), auto;
 }
 
+.at-heading {
+   background-color: lightblue;
+   border: 8px solid lightslategrey;
+}
+
 .index-img1 {
    height: 1px hover;
    width: 250px;
@@ -24,13 +29,31 @@ cursor: url('hand.png'), auto;
    text-align: left;
    max-width: 700px;
    line-height: 1.4;
+   background-color: lightblue;
+   border: 5px solid lightblue;
+   border-radius: 8px;
+   box-shadow: 0 0 5px 5px lightblue;
 }
 
 .p-1 {
-    margin: 30;
+   margin: 30;
    text-align: left;
    max-width: 700px;
    line-height: 1.4;
+   background-color: lightblue;
+   border: 5px solid lightblue;
+   border-radius: 8px;
+   box-shadow: 0 0 5px 5px lightblue;
+}
+
+.p-3 {
+   text-align: center;
+   line-height: 1.4;
+   background-color: lightblue;
+   border: 5px solid lightblue;
+   border-radius: 8px;
+   box-shadow: 0 0 5px 5px lightblue;
+   margin: 30;
 }
 
 .my-link {
@@ -49,20 +72,37 @@ cursor: url('hand.png'), auto;
    color: darkred;
 }
 
+.link {
+   float: left;
+   color: darkred;
+}
+
 .my-heading {
    font-family:Georgia, 'Times New Roman', Times, serif;
+   background-color: lightblue;
+   border: 8px solid lightslategrey;
 }
 
 h1 {
    font-family:'Franklin Gothic Medium';
 }
 
-table {
+.table-1 {
    width: 30%;
    color: darkred;
    background-color: whitesmoke;
    box-shadow: 0 0 10px 10px whitesmoke;
    font-family:'Franklin Gothic Medium';
+}
+
+.table-2 {
+   width: 50%;
+   color: darkred;
+   background-color: whitesmoke;
+   box-shadow: 0 0 10px 10px whitesmoke;
+   font-family:'Franklin Gothic Medium';
+   line-height: 1.4;
+   margin: 0 auto 1em auto;
 }
 
 .gif-three {
@@ -73,12 +113,7 @@ table {
    height: 300px;
 }
 
-.p-3 {
-   text-align: center;
-   padding-right: 200px;
-   padding-left: 200px;
-   line-height: 1.4;
-}
+
 
 .gif-two {
    box-shadow: 0 0 5px 5px skyblue;
@@ -88,4 +123,123 @@ table {
 .p-4 {
    line-height: 1.4;
    text-align: center;
+   background-color: lightblue;
+   border: 5px solid lightblue;
+   border-radius: 8px;
+   box-shadow: 0 0 5px 5px lightblue
+}
+
+ol {
+   text-align:left;
+    max-width: 300px;
+    margin: 0 auto 1em auto;
+    line-height: 2;
+    font-family: Georgia;
+    color: darkred;
+}
+
+.another-heading {
+   font-family: Georgia;
+   color: darkred;
+
+}
+
+.gae-heading {
+   background-color: lightblue;
+   border: 8px solid lightslategrey;
+}
+
+.gg-heading {
+   background-color: lightblue;
+   border: 8px solid lightslategrey;
+}
+
+.tg-heading {
+   background-color: lightblue;
+   border: 8px solid lightslategrey;
+}
+
+
+.zombies-heading {
+   background-color: lightblue;
+   border: 8px solid lightslategrey;
+}
+
+.weapons-heading {
+   background-color: lightblue;
+   border: 8px solid lightslategrey;
+}
+
+.index-img-4 {
+   height: 250px;
+}
+
+.p-7 {
+   margin: 30;
+   text-align: left;
+   max-width: 700px;
+   line-height: 1.4;
+   background-color: lightblue;
+   border: 5px solid lightblue;
+   border-radius: 8px;
+   box-shadow: 0 0 5px 5px lightblue;
+}
+
+.p-8 {
+   margin: 30;
+   text-align: left;
+   max-width: 700px;
+   line-height: 1.4;
+   background-color: lightblue;
+   border: 5px solid lightblue;
+   border-radius: 8px;
+   box-shadow: 0 0 5px 5px lightblue;
+}
+
+.p-9 {
+   margin: 30;
+   text-align: center;
+   line-height: 1.4;
+   background-color: lightblue;
+   border: 5px solid lightblue;
+   border-radius: 8px;
+   box-shadow: 0 0 5px 5px lightblue;
+}
+
+.weapons-sodas-heading {
+   background-color: lightblue;
+   border: 8px solid lightslategrey;
+}
+
+.ugly-img {
+   height: 100px;
+}
+
+a:hover {
+   color: beige;
+}
+
+.index-img-5 {
+   height: 400px;
+   width: 400px;
+}
+
+.sodas-heading {
+   background-color: lightblue;
+   border: 8px solid lightslategrey;
+}
+
+hr {
+   height: 5px;
+   background-color: black;
+}
+
+.p-10 {
+   margin: 30;
+   text-align: center;
+   line-height: 1.4;
+   background-color: lightblue;
+   border: 5px solid lightblue;
+   border-radius: 8px;
+   box-shadow: 0 0 5px 5px lightblue;
 }
